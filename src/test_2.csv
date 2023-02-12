@@ -1,0 +1,7 @@
+name,display,number,parent_id
+param1,param display,1,hogehoge
+param2,parameter display,2,hogehoge
+fuga_param1,fugafuga parameter,1,fugafuga
+fuga_param2,fugafuga Paramter 2,2,fugafuga
+piyo_param1,piyopiyo parameter,1,piyopiyo
+piyo_param2,piyopiyo Paramter 2,2,piyopiyo

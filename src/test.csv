@@ -1,0 +1,4 @@
+id,name,param
+hogehoge,name of object,"[{'name': 'param1', 'display': 'param display', 'number': 1}, {'name': 'param2', 'display': 'parameter display', 'number': 2}]"
+fugafuga,name of object,"[{'name': 'fuga_param1', 'display': 'fugafuga parameter', 'number': 1}, {'name': 'fuga_param2', 'display': 'fugafuga Paramter 2', 'number': 2}]"
+piyopiyo,name of object,"[{'name': 'piyo_param1', 'display': 'piyopiyo parameter', 'number': 1}, {'name': 'piyo_param2', 'display': 'piyopiyo Paramter 2', 'number': 2}]"
