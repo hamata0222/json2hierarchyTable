@@ -6,12 +6,24 @@
             {
                 "name": "param1",
                 "display": "param display",
-                "number": 1
+                "number": 1,
+                "categories": [
+                    {
+                        "name": "cate1",
+                        "value": 1
+                    }
+                ]
             },
             {
                 "name": "param2",
                 "display": "parameter display",
-                "number": 2
+                "number": 2,
+                "categories": [
+                    {
+                        "name": "cate2",
+                        "value": 2
+                    }
+                ]
             }
         ]
     },
@@ -22,12 +34,26 @@
             {
                 "name": "fuga_param1",
                 "display": "fugafuga parameter",
-                "number": 1
+                "number": 1,
+                "categories": [
+                    {
+                        "name": "fuga_cate1",
+                        "value": 1
+                    }
+                ]
+
             },
             {
                 "name": "fuga_param2",
                 "display": "fugafuga Paramter 2",
-                "number": 2
+                "number": 2,
+                "categories": [
+                    {
+                        "name": "fuga_cate2",
+                        "value": 2
+                    }
+                ]
+
             }
         ]
     },
@@ -38,12 +64,26 @@
             {
                 "name": "piyo_param1",
                 "display": "piyopiyo parameter",
-                "number": 1
+                "number": 1,
+                "categories": [
+                    {
+                        "name": "piyo_cate1",
+                        "value": 1
+                    }
+                ]
+
             },
             {
                 "name": "piyo_param2",
                 "display": "piyopiyo Paramter 2",
-                "number": 2
+                "number": 2,
+                "categories": [
+                    {
+                        "name": "piyo_cate2",
+                        "value": 2
+                    }
+                ]
+
             }
         ]
     }
